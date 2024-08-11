@@ -49,3 +49,7 @@ The project is expected to be completed within two weeks.
    - Visualizations depicting nutritional information.
      
  **Source code** used for data preprocessing, analysis, and visualization.
+
+ How to Run the Project
+ 
+Clone the repository:https://github.com/Simran2626/McDonald-s-Nutritional-Analysis-Project/edit/main/README.md
